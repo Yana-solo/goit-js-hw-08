@@ -98,6 +98,4 @@ gallery.addEventListener("click", (event) => {
       `);
 
   instance.show();
-
-  console.log(window);
 });
